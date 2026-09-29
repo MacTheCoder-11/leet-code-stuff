@@ -4,13 +4,13 @@ Just the leetcode stuff I do
 <!-- SOLUTIONS_START -->
 
 <p align="center">
-<a href="#solution-archive"><img src=".leetbridge/progress.svg" alt="5 solved: 4 Easy, 1 Medium, 0 Hard" width="33.333%"></a><a href="https://github.com/MacTheCoder-11/leet-code-stuff/search?q=language%3APython&amp;type=code"><img src=".leetbridge/languages.svg" alt="Solution languages" width="33.333%"></a><a href="https://leetcode.com/u/macthecoder-11/"><img src=".leetbridge/difficulty.svg" alt="Difficulty breakdown" width="33.333%"></a>
+<a href="#solution-archive"><img src=".leetbridge/progress.svg" alt="6 solved: 4 Easy, 2 Medium, 0 Hard" width="33.333%"></a><a href="https://github.com/MacTheCoder-11/leet-code-stuff/search?q=language%3APython&amp;type=code"><img src=".leetbridge/languages.svg" alt="Solution languages" width="33.333%"></a><a href="https://leetcode.com/u/macthecoder-11/"><img src=".leetbridge/difficulty.svg" alt="Difficulty breakdown" width="33.333%"></a>
 </p>
 
 <!-- LEETBRIDGE_ARCHIVE_CELLS_V3 -->
 <a name="solution-archive"></a>
 <p align="center"><picture>
-<img src=".leetbridge/archive/header.svg?v=3" alt="Solution Archive: 5 accepted problems synced by LeetBridge" width="100%">
+<img src=".leetbridge/archive/header.svg?v=3" alt="Solution Archive: 6 accepted problems synced by LeetBridge" width="100%">
 </picture></p>
 <table align="center" width="100%">
 <tbody>
@@ -19,6 +19,7 @@ Just the leetcode stuff I do
 <tr><td width="53%"><a href="https://leetcode.com/problems/roman-to-integer/"><img src=".leetbridge/archive/problems/0013-roman-to-integer.svg?v=3" alt="0013 · Roman to Integer" width="100%"></a></td><td width="17%"><picture><img src=".leetbridge/archive/difficulties/easy.svg?v=3" alt="Easy" width="100%"></picture></td><td width="30%"><a href="0013-roman-to-integer/solution.py"><img src=".leetbridge/archive/languages/python-e3dd87b7.svg?v=3" alt="Python" width="100%"></a></td></tr>
 <tr><td width="53%"><a href="https://leetcode.com/problems/guess-number-higher-or-lower/"><img src=".leetbridge/archive/problems/0374-guess-number-higher-or-lower.svg?v=3" alt="0374 · Guess Number Higher or Lower" width="100%"></a></td><td width="17%"><picture><img src=".leetbridge/archive/difficulties/easy.svg?v=3" alt="Easy" width="100%"></picture></td><td width="30%"><a href="0374-guess-number-higher-or-lower/solution.py"><img src=".leetbridge/archive/languages/python-e3dd87b7.svg?v=3" alt="Python" width="100%"></a></td></tr>
 <tr><td width="53%"><a href="https://leetcode.com/problems/guess-number-higher-or-lower-ii/"><img src=".leetbridge/archive/problems/0375-guess-number-higher-or-lower-ii.svg?v=3" alt="0375 · Guess Number Higher or Lower II" width="100%"></a></td><td width="17%"><picture><img src=".leetbridge/archive/difficulties/medium.svg?v=3" alt="Medium" width="100%"></picture></td><td width="30%"><a href="0375-guess-number-higher-or-lower-ii/solution.py"><img src=".leetbridge/archive/languages/python-e3dd87b7.svg?v=3" alt="Python" width="100%"></a></td></tr>
+<tr><td width="53%"><a href="https://leetcode.com/problems/can-i-win/"><img src=".leetbridge/archive/problems/0464-can-i-win.svg?v=3" alt="0464 · Can I Win" width="100%"></a></td><td width="17%"><picture><img src=".leetbridge/archive/difficulties/medium.svg?v=3" alt="Medium" width="100%"></picture></td><td width="30%"><a href="0464-can-i-win/solution.py"><img src=".leetbridge/archive/languages/python-e3dd87b7.svg?v=3" alt="Python" width="100%"></a></td></tr>
 </tbody>
 </table>
 
