@@ -4,19 +4,20 @@ Just the leetcode stuff I do
 <!-- SOLUTIONS_START -->
 
 <p align="center">
-<a href="#solution-archive"><img src=".leetbridge/progress.svg" alt="3 solved: 3 Easy, 0 Medium, 0 Hard" width="33.333%"></a><a href="https://github.com/MacTheCoder-11/leet-code-stuff/search?q=language%3APython&amp;type=code"><img src=".leetbridge/languages.svg" alt="Solution languages" width="33.333%"></a><a href="https://leetcode.com/u/macthecoder-11/"><img src=".leetbridge/difficulty.svg" alt="Difficulty breakdown" width="33.333%"></a>
+<a href="#solution-archive"><img src=".leetbridge/progress.svg" alt="4 solved: 4 Easy, 0 Medium, 0 Hard" width="33.333%"></a><a href="https://github.com/MacTheCoder-11/leet-code-stuff/search?q=language%3APython&amp;type=code"><img src=".leetbridge/languages.svg" alt="Solution languages" width="33.333%"></a><a href="https://leetcode.com/u/macthecoder-11/"><img src=".leetbridge/difficulty.svg" alt="Difficulty breakdown" width="33.333%"></a>
 </p>
 
 <!-- LEETBRIDGE_ARCHIVE_CELLS_V3 -->
 <a name="solution-archive"></a>
 <p align="center"><picture>
-<img src=".leetbridge/archive/header.svg?v=3" alt="Solution Archive: 3 accepted problems synced by LeetBridge" width="100%">
+<img src=".leetbridge/archive/header.svg?v=3" alt="Solution Archive: 4 accepted problems synced by LeetBridge" width="100%">
 </picture></p>
 <table align="center" width="100%">
 <tbody>
 <tr><td width="53%"><a href="https://leetcode.com/problems/two-sum/"><img src=".leetbridge/archive/problems/0001-two-sum.svg?v=3" alt="0001 · Two Sum" width="100%"></a></td><td width="17%"><picture><img src=".leetbridge/archive/difficulties/easy.svg?v=3" alt="Easy" width="100%"></picture></td><td width="30%"><a href="0001-two-sum/solution.py"><img src=".leetbridge/archive/languages/python-e3dd87b7.svg?v=3" alt="Python" width="100%"></a></td></tr>
 <tr><td width="53%"><a href="https://leetcode.com/problems/palindrome-number/"><img src=".leetbridge/archive/problems/0009-palindrome-number.svg?v=3" alt="0009 · Palindrome Number" width="100%"></a></td><td width="17%"><picture><img src=".leetbridge/archive/difficulties/easy.svg?v=3" alt="Easy" width="100%"></picture></td><td width="30%"><a href="0009-palindrome-number/solution.py"><img src=".leetbridge/archive/languages/python-e3dd87b7.svg?v=3" alt="Python" width="100%"></a></td></tr>
 <tr><td width="53%"><a href="https://leetcode.com/problems/roman-to-integer/"><img src=".leetbridge/archive/problems/0013-roman-to-integer.svg?v=3" alt="0013 · Roman to Integer" width="100%"></a></td><td width="17%"><picture><img src=".leetbridge/archive/difficulties/easy.svg?v=3" alt="Easy" width="100%"></picture></td><td width="30%"><a href="0013-roman-to-integer/solution.py"><img src=".leetbridge/archive/languages/python-e3dd87b7.svg?v=3" alt="Python" width="100%"></a></td></tr>
+<tr><td width="53%"><a href="https://leetcode.com/problems/guess-number-higher-or-lower/"><img src=".leetbridge/archive/problems/0374-guess-number-higher-or-lower.svg?v=3" alt="0374 · Guess Number Higher or Lower" width="100%"></a></td><td width="17%"><picture><img src=".leetbridge/archive/difficulties/easy.svg?v=3" alt="Easy" width="100%"></picture></td><td width="30%"><a href="0374-guess-number-higher-or-lower/solution.py"><img src=".leetbridge/archive/languages/python-e3dd87b7.svg?v=3" alt="Python" width="100%"></a></td></tr>
 </tbody>
 </table>
 
